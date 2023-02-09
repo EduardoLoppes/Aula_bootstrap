@@ -1,0 +1,28 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+.navbar{
+background-color: #E59613;
+
+}
+.blog-quimica{
+    background-color:#ECA52F;
+    color: white;
+}
+
+.margin{
+padding-bottom: 15px;
+margin-top: 10;
+}
+
+.nav-link{
+color: white;
+
+}
+.servicos{
+    background-color: #ECA52F;
+}
+
+.bg-footer{
+    background-color: #ECA52F;
+}
